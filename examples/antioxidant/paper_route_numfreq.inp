@@ -1,0 +1,4 @@
+# Use when an analytic Hessian is unavailable for M052X in the installed build
+! M052X LANL2DZ DEFGRID3 TightSCF NumFreq PAL8
+%maxcore 3000
+* xyzfile CHARGE MULTIPLICITY state_opt.xyz

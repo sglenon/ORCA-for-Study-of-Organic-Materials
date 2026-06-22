@@ -1,0 +1,15 @@
+-------------------------   --------------------
+FINAL SINGLE POINT ENERGY      -154.238745621000
+-------------------------   --------------------
+
+                    .--------------------.
+                      Geometry convergence
+                    .--------------------.
+Energy change                0.00000120   0.00000500   YES
+RMS gradient                 0.00002100   0.00010000   YES
+MAX gradient                 0.00006200   0.00030000   YES
+RMS step                     0.00030000   0.00200000   YES
+MAX step                     0.00081000   0.00400000   YES
+
+        THE OPTIMIZATION HAS CONVERGED
+ORCA TERMINATED NORMALLY

@@ -1,0 +1,3 @@
+! HF def2-SVP TightSCF
+%pal nprocs 1 end
+* xyzfile 0 1 water.xyz

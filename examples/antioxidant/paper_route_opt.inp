@@ -1,0 +1,6 @@
+# ORCA 6.1 translation of the paper's optimization level
+! M052X LANL2DZ DEFGRID3 TightSCF TightOpt Opt PAL8
+%maxcore 3000
+%scf MaxIter 400 end
+%geom MaxIter 300 end
+* xyzfile CHARGE MULTIPLICITY state.xyz

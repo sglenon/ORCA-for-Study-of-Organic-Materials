@@ -1,0 +1,6 @@
+# Recalculate charge and multiplicity for the actual complex
+! PBE0 D4 def2-TZVP TightSCF TightOpt Opt Freq SMD(Water) PAL8
+%maxcore 3000
+%scf MaxIter 400 end
+%geom MaxIter 300 end
+* xyzfile 2 2 cu_complex.xyz

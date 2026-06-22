@@ -1,0 +1,3 @@
+! r2SCAN-3c TightSCF Opt PAL8
+%maxcore 2500
+* xyzfile 0 1 structure.xyz

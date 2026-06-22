@@ -1,0 +1,9 @@
+# Explicit ORCA interpretation of the paper's larger-basis single point
+# Pople basis on supported light atoms; LANL2DZ valence basis/ECP on Cu
+! M052X 6-311++G(2df,2p) DEFGRID3 TightSCF SP PAL8
+%maxcore 3000
+%basis
+  NewGTO Cu "LANL2DZ" end
+  NewECP Cu "LANL2DZ" end
+end
+* xyzfile CHARGE MULTIPLICITY state_opt.xyz

@@ -1,0 +1,5 @@
+! PBE0 D4 def2-TZVP TightSCF TightOpt Opt Freq SMD(Acetonitrile) PAL8
+%maxcore 3000
+%scf MaxIter 300 end
+%geom MaxIter 250 end
+* xyzfile 0 1 structure.xyz

@@ -1,0 +1,8 @@
+! CAM-B3LYP def2-TZVP TightSCF SMD(Acetonitrile) PAL8
+%maxcore 3000
+%tddft
+  nroots 30
+  tda true
+  donto true
+end
+* xyzfile 0 1 ligand_opt.xyz

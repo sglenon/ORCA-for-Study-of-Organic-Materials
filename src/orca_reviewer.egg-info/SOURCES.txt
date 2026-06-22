@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/orca_reviewer/__init__.py
+src/orca_reviewer/input_builder.py
+src/orca_reviewer/parsers.py
+src/orca_reviewer/runner.py
+src/orca_reviewer/spectra.py
+src/orca_reviewer/thermochemistry.py
+src/orca_reviewer.egg-info/PKG-INFO
+src/orca_reviewer.egg-info/SOURCES.txt
+src/orca_reviewer.egg-info/dependency_links.txt
+src/orca_reviewer.egg-info/requires.txt
+src/orca_reviewer.egg-info/top_level.txt
+tests/test_parsers.py
+tests/test_thermochemistry.py

@@ -1,0 +1,9 @@
+# Illustrative q/m only
+! CAM-B3LYP def2-TZVP TightSCF SMD(DMSO) PAL8
+%maxcore 3000
+%tddft
+  nroots 50
+  tda true
+  donto true
+end
+* xyzfile 2 2 complex_opt.xyz

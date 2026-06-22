@@ -1,0 +1,3 @@
+! PBE0 D4 def2-TZVPP TightSCF SMD(Water) PAL8
+%maxcore 3000
+* xyzfile CHARGE MULTIPLICITY state_opt.xyz

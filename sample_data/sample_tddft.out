@@ -1,0 +1,14 @@
+TD-DFT/TDA EXCITED STATES
+STATE   1:  E=   0.08270 au      2.2500 eV    18147.0 cm**-1
+         f=0.0030
+         45a -> 47a  : 0.61
+         46a -> 47a  : 0.25
+STATE   2:  E=   0.11870 au      3.2300 eV    26052.0 cm**-1
+         f=0.1800
+         46a -> 47a  : 0.72
+         45a -> 48a  : 0.14
+STATE   3:  E=   0.15210 au      4.1390 eV    33383.0 cm**-1
+         f=0.5400
+         44a -> 47a  : 0.35
+         46a -> 49a  : 0.42
+ORCA TERMINATED NORMALLY
